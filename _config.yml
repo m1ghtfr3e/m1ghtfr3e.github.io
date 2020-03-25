@@ -6,7 +6,7 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: m1ghtfr3e (Please contact me if real informations are needed)
+  #name: m1ghtfr3e (Please contact me if real informations are needed)
   #avatar: bio-photo.jpg
   bio: Presenting my own projects and repositories of github
   #email: laderast@ohsu.edu
