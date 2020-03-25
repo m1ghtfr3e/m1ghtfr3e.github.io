@@ -15,3 +15,4 @@ category: presentation
 ..1. ![Relation of confirmed and death cases in Italy](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-dead.jpg)
 ..2. ![Relation of confirmed and recovered cases in China](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-rec-CN.jpeg)
 ..3. ![Chorincal evolution of confirmed cases in Germany](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-GER.png)
+..4. ![...](assets/images/conf-GER.png)
