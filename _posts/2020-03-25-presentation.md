@@ -14,7 +14,7 @@ category: presentation
 2. [Link to repository](https://github.com/m1ghtfr3e/COVID-19-Analyzation)
 3. See some examples:
 
-![Relation of confirmed and death cases in Italy](r/images/conf-dead.jpg)
+![Relation of confirmed and death cases in Italy](/images/conf-dead.jpg)
 
 ![Chronical Evoultion of confirmed cases in Germany](/images/conf-GER.png)
 
