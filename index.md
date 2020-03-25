@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a self taught programmer.
+> I am a self taught programmer.
 
 ## Current Interests and Projects:
 
