@@ -24,6 +24,6 @@ strolling through the cities.
 After some time I saw that there was quite a lot of datasets so I thought why not starting
 programming something around that which could eventually help others. Even I'm not experienced 
 at all at this field of coding, I did my best and after some days I was quite happy with my
-results. You can see them in my github repositories or see examples in the *Presentations* <em>
+results. You can see them in my github repositories or see examples in the <em>Presentations</em>
 section on this site.
 
