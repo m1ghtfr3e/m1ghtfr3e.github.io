@@ -9,7 +9,7 @@ category: presentation
 ---
 <section data-markdown>
 
-### COVID-19-Analyzation
+#### COVID-19-Analyzation
 1. Visualizes dataset of the Covid-19 situation
 2. [Link to repository](https://github.com/m1ghtfr3e/COVID-19-Analyzation)
 3. See some examples:
@@ -20,7 +20,7 @@ category: presentation
 </section>
 <section data-markdown>
   
-### Little Diary Program 
+#### Little Diary Program 
 :notebook:
 
 1. It's a simple, native program which writes and reads diary entries 
@@ -31,14 +31,14 @@ category: presentation
 </section>
 <section data-markdown>
   
-### Natural Language Processing with Python and NLTK
+#### Natural Language Processing with Python and NLTK
 1. [Link to repository](https://github.com/m1ghtfr3e/Text-Edition-Programs)
 ![]()
   
 </section>
 <section data-markdown>
   
-### Analyze my sleep
+#### Analyze my sleep
 1. Program to save and visualizing/analyzing your sleep.
   Just enter how many hours you slept.
   [Still in progress]
