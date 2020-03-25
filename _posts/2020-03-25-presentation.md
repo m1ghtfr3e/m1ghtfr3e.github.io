@@ -33,7 +33,7 @@ category: presentation
   
 #### Natural Language Processing with Python and NLTK
 1. [Link to repository](https://github.com/m1ghtfr3e/Text-Edition-Programs)
-![]()
+
   
 </section>
 <section data-markdown>
