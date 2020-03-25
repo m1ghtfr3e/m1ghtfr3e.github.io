@@ -16,12 +16,12 @@ category: presentation
 
 ![Relation of confirmed and death cases in Italy](/images/conf-dead.jpg)
 
-![Chronical Evoultion of confirmed cases in Germany](/images/conf-GER.png)
 
 </section>
 <section data-markdown>
   
-### Little Diary Program
+### Little Diary Program 
+:notebook:
 
 1. It's a simple, native program which writes and reads diary entries 
    to a textfile. 
