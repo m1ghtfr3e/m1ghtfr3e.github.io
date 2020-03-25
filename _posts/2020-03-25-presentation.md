@@ -10,4 +10,7 @@ category: presentation
 <section data-markdown>
 
 ## COVID-19-Analyzation
-
+1. Visualizes dataset of the Covid-19 situation
+2. See some examples:
+[Example 1](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-dead.jpg)
+[Example 2](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-rec-CN.jpeg)
