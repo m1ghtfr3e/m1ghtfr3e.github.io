@@ -14,8 +14,8 @@ category: presentation
 2. [Link to repository](https://github.com/m1ghtfr3e/COVID-19-Analyzation)
 3. See some examples:
 
-![Relation of confirmed and death cases in Italy](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-dead.jpg)
+![Relation of confirmed and death cases in Italy](r/images/conf-dead.jpg)
 
-![Chronical Evoultion of confirmed cases in Germany](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-GER.png)
+![Chronical Evoultion of confirmed cases in Germany](/images/conf-GER.png)
 
 </section>
