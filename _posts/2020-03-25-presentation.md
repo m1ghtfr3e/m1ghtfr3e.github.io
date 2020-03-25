@@ -13,4 +13,4 @@ category: presentation
 1. Visualizes dataset of the Covid-19 situation
 2. See some examples:
 
-<img source=" m1ghtfr3e.github.io/images/conf-dead.jpg ">
+<img source="https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-dead.jpg">
