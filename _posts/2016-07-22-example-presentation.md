@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+title: Projects
+excerpt:  Examples of my projects and repositories on github
 theme: simple
 transition: convex
 tags: [presentation]
@@ -9,7 +9,7 @@ category: presentation
 ---
 <section data-markdown>
 
-# Reveal.js and Jekyll Academic
+# COVID-19-Analyzation
 
 
 </section>
