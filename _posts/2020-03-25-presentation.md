@@ -18,4 +18,4 @@ category: presentation
 
 ![Chronical Evoultion of confirmed cases in Germany](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-GER.png)
 
-
+</section>
