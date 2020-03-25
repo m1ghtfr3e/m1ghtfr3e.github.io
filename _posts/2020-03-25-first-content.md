@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-> I wanna talk about the program "COVID-19_Analyzation" and how I making progress in coding.
+> I wanna talk about the program "COVID-19_Analyzation" and how I'm making progress in coding.
 
 
 ### The beginning
@@ -26,3 +26,8 @@ at all at this field of coding, I did my best and after some days I was quite ha
 results. You can see them in my github repositories or see examples in the <em>Presentations</em>
 section on this site.
 
+
+<strong> Some picture examples out of the program and the code </strong>
+
+![](/images/conf-GER.png)
+![](/images/conf-dead.jpg)
