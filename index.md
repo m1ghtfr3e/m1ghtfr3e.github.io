@@ -9,5 +9,5 @@ I am a self taught programmer.
 
 - Data Science
 - Programming (mainly in Python)
-- [GitHub Pages](http://m1ghtfr3e.github.io)
+- [GitHub Profile](https://github.com/m1ghtfr3e)
 
