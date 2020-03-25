@@ -13,4 +13,4 @@ category: presentation
 1. Visualizes dataset of the Covid-19 situation
 2. See some examples:
 
-<img source="images/conf-dead.jpg"/>
+![](images/conf-dead.jpg)
