@@ -23,7 +23,6 @@ category: presentation
   
 ### Little Diary Program
 
-
 1. It's a simple, native program which writes and reads diary entries 
    to a textfile. 
 2. [Link to repository](https://github.com/m1ghtfr3e/Diary)
@@ -31,12 +30,14 @@ category: presentation
   
 </section>
 <section data-markdown>
+  
 ### Natural Language Processing with Python and NLTK
 1. [Link to repository](https://github.com/m1ghtfr3e/Text-Edition-Programs)
 ![]()
   
 </section>
 <section data-markdown>
+  
 ### Analyze my sleep
 1. Program to save and visualizing/analyzing your sleep.
   Just enter how many hours you slept.
