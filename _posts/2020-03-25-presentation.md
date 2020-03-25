@@ -22,11 +22,11 @@ category: presentation
 <section data-markdown>
   
 ### Little Diary Program
-![](/images/Diary.png)
+![](/images/Diary.png){:height="310" width="315"}
 
 1. It's a simple, native program which writes and reads diary entries 
    to a textfile. 
-2. [Link to repository](https://github.com/m1ghtfr3e/Diary){:height="310" width="315"}
+2. [Link to repository](https://github.com/m1ghtfr3e/Diary)
   
   
 </section>
