@@ -14,3 +14,4 @@ category: presentation
 2. See some examples:
 [Example 1](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-dead.jpg)
 [Example 2](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-rec-CN.jpeg)
+[Example 3](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-GER.png)
