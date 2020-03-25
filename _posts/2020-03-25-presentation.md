@@ -22,7 +22,7 @@ category: presentation
 <section data-markdown>
   
 ### Little Diary Program
-![](/images/Diary.jpeg)
+![](/images/Diary.png)
 
 1. It's a simple, native program which writes and reads diary entries 
    to a textfile. 
