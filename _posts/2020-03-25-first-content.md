@@ -8,9 +8,8 @@ comments: true
 category: blog
 ---
 
-<div class="message">
-  I wanna talk about the program "COVID-19_Analyzation" and how I making progress in coding.
-</div>
+> I wanna talk about the program "COVID-19_Analyzation" and how I making progress in coding.
+
 
 ### The beginning
 When the Corona Virus started first, I didn't think it will be getting a huge problem,
