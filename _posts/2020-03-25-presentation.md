@@ -13,4 +13,6 @@ category: presentation
 1. Visualizes dataset of the Covid-19 situation
 2. See some examples:
 
-![Relation of confirmed and death cases in Italy](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-dead.jpg)
+[Relation of confirmed and death cases in Italy](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-dead.jpg)
+---
+[Chronical Evoultion of confirmed cases in Germany](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-GER.png)
