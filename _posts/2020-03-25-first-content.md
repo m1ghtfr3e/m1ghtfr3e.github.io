@@ -29,5 +29,7 @@ section on this site.
 
 <strong> Some picture examples out of the program and the code </strong>
 
+![xmple func](/images/Screenshot_covid.png)
 ![](/images/conf-GER.png)
 ![](/images/conf-dead.jpg)
+
