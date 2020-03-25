@@ -12,6 +12,6 @@ category: presentation
 ## COVID-19-Analyzation
 1. Visualizes dataset of the Covid-19 situation
 2. See some examples:
-..1![Relation of confirmed and death cases in Italy](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-dead.jpg)
-..2![Relation of confirmed and recovered cases in China](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-rec-CN.jpeg)
-..3![Chorincal evolution of confirmed cases in Germany](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-GER.png)
+..1. ![Relation of confirmed and death cases in Italy](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-dead.jpg)
+..2. ![Relation of confirmed and recovered cases in China](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-rec-CN.jpeg)
+..3. ![Chorincal evolution of confirmed cases in Germany](https://github.com/m1ghtfr3e/m1ghtfr3e.github.io/blob/master/images/conf-GER.png)
