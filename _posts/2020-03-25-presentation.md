@@ -22,6 +22,8 @@ category: presentation
 <section data-markdown>
   
 ### Little Diary Program
+![](/images/Diary.png)
+
 1. It's a simple, native program which writes and reads diary entries 
    to a textfile. 
 2. [Link to repository](https://github.com/m1ghtfr3e/Diary)
