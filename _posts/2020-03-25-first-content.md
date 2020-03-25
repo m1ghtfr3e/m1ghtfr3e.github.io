@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Covid19 - How it started & my progress
+title: Covid19 Analyzation - How it started & my progress
 excerpt: "Improving my coding skills while being in quarantine"
 modified: 03/25/2020
 tags: [corona, python, data, pandas]
