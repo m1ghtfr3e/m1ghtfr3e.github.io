@@ -25,6 +25,16 @@ category: presentation
   Just enter how many hours you slept.
   [Still in progress]
 2. [Link to repository](https://github.com/m1ghtfr3e/statMySleep)
+3. Examples:
+
+![Start of program](/images/sleep.png)
+
+###### ... (continue)
+
+</section>
+<section data-markdown >
+  
+![Another example](/images/sleep1.png) 
   
 </section>
 <section data-markdown>
