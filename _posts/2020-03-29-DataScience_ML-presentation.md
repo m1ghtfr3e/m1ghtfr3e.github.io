@@ -16,8 +16,14 @@ category: presentation
 
 ![Relation of confirmed and death cases in Italy](/images/conf-dead.jpg)
 
+##### ...more on next page
+</section>
+<section data-markdown>
+ 
+![Relation Confirmed and Recovered cases in China](/images/conf-rec-CN.jpeg)
 
 </section>
+
 <section data-markdown>
 
 #### Analyze my sleep
@@ -34,7 +40,7 @@ category: presentation
 </section>
 <section data-markdown >
   
-![Another example](/images/sleep1.png) 
+![Another example](/images/sleep2.png) 
   
 </section>
 <section data-markdown>
